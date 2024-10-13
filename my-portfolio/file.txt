@@ -1,0 +1,56 @@
+Ansh's Web Development Portfolio
+
+1. Cover Page
+
+    Name: Ansh [Last Name]
+    Title: Web Developer
+    Contact Information: [Email, Phone Number]
+    LinkedIn Profile: [LinkedIn URL]
+    GitHub Profile: [GitHub URL]
+
+2. About Me
+
+    A brief introduction about Ansh, including interests in web development, relevant skills, and what inspires him in the field.
+
+3. Skills
+
+    Programming Languages: HTML, CSS, JavaScript, etc.
+    Frameworks: React, Angular, Vue.js, etc.
+    Tools: Git, Node.js, etc.
+    Other Skills: Responsive Design, UI/UX Principles, etc.
+
+4. Projects
+
+    Project 1: [Project Name]
+        Description: A brief overview of the project.
+        Technologies Used: [List of technologies]
+        Link: [Live Demo or GitHub Repo]
+
+    Project 2: [Project Name]
+        Description: A brief overview of the project.
+        Technologies Used: [List of technologies]
+        Link: [Live Demo or GitHub Repo]
+
+    Project 3: [Project Name]
+        Description: A brief overview of the project.
+        Technologies Used: [List of technologies]
+        Link: [Live Demo or GitHub Repo]
+
+5. Experience
+
+    Job Title, Company Name
+        Dates of Employment: [Start Date - End Date]
+        Responsibilities: Brief list of key responsibilities and achievements.
+
+    Internship Title, Company Name
+        Dates of Employment: [Start Date - End Date]
+        Responsibilities: Brief list of key responsibilities and achievements.
+
+6. Education
+
+    Degree, Major
+        University Name, Graduation Year
+
+7. Contact
+
+    Invite potential employers or clients to reach out via email or phone.
